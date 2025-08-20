@@ -1,0 +1,7 @@
+aiogram
+
+logging
+
+json
+
+os
